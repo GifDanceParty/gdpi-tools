@@ -1,5 +1,4 @@
 ![](gifs/_GIF.gif)
-![](gifs/Dance.gif =250px)
-![](gifs/Party.gif =250px)
+![](gifs/Dance.gif)
+<img src="gifs/Party.gif" width="1000">
 
-<img src="gifs/_GIF.gif" width="48">)
